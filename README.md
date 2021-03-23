@@ -35,7 +35,7 @@ Project is created with:
 * Library : AXIOS
 
 ## ScreenShot
-![Demo schema](./demoImage/gitHubDemo.PNG)
+![Demo schema](./demoImage/gitHubDemo.png)
 
 
 	
